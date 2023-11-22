@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Karthi\\OneDrive\\Documents\\AuctionDapp\\Smart_Contract\\contracts\\Auction_Contract.sol": {
+      "lastModificationDate": 1700054245086,
+      "contentHash": "435d102a04e49999a31fae1980d796c9",
+      "sourceName": "contracts/Auction_Contract.sol",
+      "solcConfig": {
+        "version": "0.7.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.7.4"
+      ],
+      "artifacts": [
+        "Auction_Contract"
+      ]
+    },
+    "C:\\Users\\Karthi\\OneDrive\\Documents\\VCG_Auction\\Smart_Contract\\contracts\\Auction_Contract.sol": {
+      "lastModificationDate": 1700484464175,
+      "contentHash": "c94fb629e239dabbdf103ce1467d3ef8",
+      "sourceName": "contracts/Auction_Contract.sol",
+      "solcConfig": {
+        "version": "0.7.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.7.0"
+      ],
+      "artifacts": [
+        "Auction_Contract"
+      ]
+    }
+  }
+}
